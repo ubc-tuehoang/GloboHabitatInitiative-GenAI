@@ -9,6 +9,8 @@ In a world facing the dual challenges of rapid urbanization and environmental de
 
 This scenario envisions a future where technology, collaboration, and holistic thinking have converged to solve the pressing issue of affordable, sustainable housing on a global scale. The initiative is a multifaceted approach that leverages cutting-edge technology, innovative design, and international cooperation to create housing solutions that are both environmentally friendly and accessible to people of all income levels.
 
+![Alt text](image.png)
+
 Core Components of the GloboHabitat Initiative:
 
 1. Modular Eco-Structures:   - Employing the latest advancements in materials science, GloboHabitat introduces modular homes made from recycled, bio-based composites that are carbon-neutral and extremely durable. These structures are designed for easy assembly and disassembly, allowing for them to be moved or repurposed as needed, dramatically reducing waste and environmental impact.
